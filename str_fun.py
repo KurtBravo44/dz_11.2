@@ -1,4 +1,7 @@
 def all_letter_up(x):
-    '''docstring_1'''
+    '''docstr'''
     return x.upper()
 
+def first_letter_up(x):
+    '''docstr'''
+    return x.capitalize()
